@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="small.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="direct_01.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="bg.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="direct_01.aps" />
+    <None Include="sprite.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\9.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\10.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\11.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\12.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\13.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\3.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\5.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\6.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\7.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="animation\8.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="9.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="10.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="11.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="12.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="13.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="2.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="3.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="4.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="5.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="6.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="7.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="8.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathmatrix.inl">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX_DXGIFormatConvert.inl">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX10math.inl">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="direct_01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dsetup.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dsound.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DWrite.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxdiag.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DxErr.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxfile.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DXGI.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DXGIFormat.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\DXGIType.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxsdkver.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\gameux.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\PIXPlugin.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\rmxfguid.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\rmxftmpl.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\rpcsal.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\X3DAudio.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xact3.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xact3d3.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xact3wb.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XAPO.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XAPOBase.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XAPOFX.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XAudio2.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XAudio2fx.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XDSP.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\XInput.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xma2defs.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\audiodefs.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\comdecl.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2D1.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2D1Helper.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DBaseTypes.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2Derr.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d9.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d9caps.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d9types.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D10.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D10_1.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D10_1shader.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D10effect.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10misc.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10sdklayers.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D10shader.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11SDKLayers.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11Shader.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3Dcommon.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3Dcompiler.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DCSX.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9anim.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9core.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9effect.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9mesh.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9shader.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9shape.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9tex.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9xof.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX10.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx10async.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX10core.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX10math.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX10mesh.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX10tex.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX11.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX11async.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX11core.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3DX11tex.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\Dcommon.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinputd.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dsconf.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="direct_01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="direct_01.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
